@@ -71,8 +71,8 @@ void setup()
 }
 
 
-void loop() {
-
+void loop() 
+{
   uint16_t v = 32760 + sin(micros() * M_PI  / 60000) * 32760;
 
   for (int i=7;i>=0;i--)
