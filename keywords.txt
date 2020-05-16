@@ -1,0 +1,7 @@
+AD567x	        KEYWORD1
+Command         KEYWORD1
+Address         KEYWORD1
+
+init            KEYWORD2
+softReset       KEYWORD2
+writeCommand    KEYWORD2
